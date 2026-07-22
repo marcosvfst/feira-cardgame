@@ -1,0 +1,11 @@
+{
+  "name": "feira-cardgame",
+  "version": "0.1.0",
+  "description": "Minimal Phaser card game demo",
+  "scripts": {
+    "start": "http-server -c-1 -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
